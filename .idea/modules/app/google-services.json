@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1016957248890",
+    "firebase_url": "https://declutters-waste-management.firebaseio.com",
+    "project_id": "declutters-waste-management",
+    "storage_bucket": "declutters-waste-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016957248890:android:165f1b2a62d1b2fc11e2c3",
+        "android_client_info": {
+          "package_name": "com.example.dashboardui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016957248890-2lq2dfn5pn9ut78ib63udshmils3gsrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dashboardui",
+            "certificate_hash": "1558f65934398de6d0c07b75e933014c6cf3f956"
+          }
+        },
+        {
+          "client_id": "1016957248890-qil9ehhvipq8ocgqdhm9afcmvnfeg7id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ1JrnNIGAn6o0oOI0FTu6EsOjLJp608Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016957248890-qil9ehhvipq8ocgqdhm9afcmvnfeg7id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016957248890:android:9d0e9b12e19adc0e11e2c3",
+        "android_client_info": {
+          "package_name": "com.example.declutters_userdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016957248890-34b018sd119tp5c6efpr0nlro1ohh1tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.declutters_userdashboard",
+            "certificate_hash": "1558f65934398de6d0c07b75e933014c6cf3f956"
+          }
+        },
+        {
+          "client_id": "1016957248890-qil9ehhvipq8ocgqdhm9afcmvnfeg7id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ1JrnNIGAn6o0oOI0FTu6EsOjLJp608Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016957248890-qil9ehhvipq8ocgqdhm9afcmvnfeg7id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
